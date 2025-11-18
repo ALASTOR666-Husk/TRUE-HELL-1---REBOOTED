@@ -1,0 +1,5 @@
+total 0
+drwxr-xr-x 1 Кирилл 197121 0 Nov 18 21:24 Learning/
+drwxr-xr-x 1 Кирилл 197121 0 Nov 18 21:24 Python/
+drwxr-xr-x 1 Кирилл 197121 0 Nov 18 21:24 Website/
+13
